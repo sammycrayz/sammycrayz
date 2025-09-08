@@ -6,6 +6,7 @@
 [![Status](https://img.shields.io/badge/Actively_Building-🚧_Always_Learning-orange)](#)
 
 🎓 Computer Science student @ **University of Maryland Global Campus** (Graduating Fall 2025) 
+
 🎧 Music producer + multimedia creative (Logic Pro, CapCut, Adobe Suite)  
 💻 Aspiring software engineer, QA tester, and creative technologist  
 🚀 Currently building my portfolio site and bug tracker demo  
