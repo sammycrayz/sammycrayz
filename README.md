@@ -3,6 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-informational?style=flat&logo=github&color=blue)](https://sammycrayz.github.io/portfolio-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/samuel-appiah32)
 [![GitHub](https://img.shields.io/github/followers/sammycrayz?style=social)](https://github.com/sammycrayz)
+[![Spotify Artist Page](https://img.shields.io/badge/🎧%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1hjEeAjJOSVWmBR2A6GFzi)
 [![Status](https://img.shields.io/badge/Actively_Building-🚧_Always_Learning-orange)](#)
 
 🎓 Computer Science student @ **University of Maryland Global Campus** (Graduating Fall 2025) 
